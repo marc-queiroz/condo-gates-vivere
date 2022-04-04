@@ -1,0 +1,711 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Circuit Diagram, cdlibrary.dll 4.0.0.0 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" width="2000" height="1400" xmlns="http://www.w3.org/2000/svg">
+	<line x1="1000" y1="420" x2="1000" y2="540" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="930" y1="540" x2="1000" y2="540" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1000" y1="420" x2="1860" y2="420" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="460" y1="540" x2="930" y2="540" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="460" y1="540" x2="460" y2="1050" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="460" y1="1050" x2="490" y2="1050" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1510" y1="450" x2="1970" y2="450" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1510" y1="400" x2="1510" y2="450" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="680" y1="400" x2="1510" y2="400" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="680" y1="400" x2="680" y2="700" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1740" y1="190" x2="1740" y2="340" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1740" y1="330" x2="1740" y2="340" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="770" y1="340" x2="1740" y2="340" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="770" y1="340" x2="770" y2="580" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="480" y1="580" x2="770" y2="580" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="480" y1="580" x2="480" y2="770" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="430" y1="620" x2="430" y2="1110" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="430" y1="620" x2="720" y2="620" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="720" y1="260" x2="720" y2="270" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="720" y1="270" x2="720" y2="280" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="720" y1="270" x2="720" y2="620" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="720" y1="260" x2="1570" y2="260" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="430" y1="1110" x2="490" y2="1110" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1170" y1="210" x2="1430" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1170" y1="210" x2="1170" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1510" y1="210" x2="1720" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1510" y1="290" x2="1730" y2="290" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1480" y1="290" x2="1510" y2="290" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 1502,290 M 1502,282 L 1502,298 M 1502,290 L 1487,298 L 1487,282 L 1502,290" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 1500,290 M 1498,279 L 1506,271 M 1507,270 L 1503,272 L 1505,274 L 1507,270 L 1503,272" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 1500,290 M 1504,286 L 1512,278 M 1513,277 L 1509,279 L 1511,281 L 1513,277 L 1509,279" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1430" y1="290" x2="1435" y2="290" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1475" y1="290" x2="1480" y2="290" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="1435" y="282" width="40" height="16" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="1455" y="276" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 1455, 276)">1 kΩ</text>
+	<line x1="1160" y1="290" x2="1430" y2="290" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1160" y1="290" x2="1160" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1140" y1="490" x2="1820" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1820" y1="380" x2="1820" y2="500" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1780" y1="290" x2="1820" y2="290" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1780" y1="210" x2="1820" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1570" y1="260" x2="1840" y2="260" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1860" y1="410" x2="1860" y2="420" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1860" y1="330" x2="1860" y2="360" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1840" y1="190" x2="1840" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1860" y1="360" x2="1860" y2="365" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1860" y1="405" x2="1860" y2="410" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="1852" y="365" width="16" height="40" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="1846" y="385" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1846, 385)">1 kΩ</text>
+	<line x1="1840" y1="210" x2="1840" y2="215" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1840" y1="255" x2="1840" y2="260" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="1832" y="215" width="16" height="40" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="1826" y="235" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1826, 235)">1 kΩ</text>
+	<line x1="1950" y1="330" x2="1970" y2="330" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1790" y1="330" x2="1900" y2="330" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1900" y1="330" x2="1905" y2="330" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1945" y1="330" x2="1950" y2="330" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="1905" y="322" width="40" height="16" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="1925" y="316" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 1925, 316)">100 kΩ</text>
+	<line x1="1970" y1="190" x2="1970" y2="540" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1790" y1="190" x2="1900" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1950" y1="190" x2="1970" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1900" y1="190" x2="1905" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1945" y1="190" x2="1950" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="1905" y="182" width="40" height="16" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="1925" y="176" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 1925, 176)">100 kΩ</text>
+	<line x1="1820" y1="320" x2="1820" y2="390" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1810" y1="290" x2="1820" y2="290" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1810" y1="210" x2="1820" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1820" y1="210" x2="1820" y2="320" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1740" y1="330" x2="1757" y2="330" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1783" y1="330" x2="1790" y2="330" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1762" y1="315.5" x2="1778" y2="315.5" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:3" />
+	<line x1="1757" y1="330" x2="1766" y2="315.5" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1774" y1="315.5" x2="1783" y2="330" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<ellipse cx="1770" cy="320" rx="16" ry="16" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<path d="M 1742,300 L 1750,308 M 1751,309 L 1749,305 L 1747,307 L 1751,309 L 1749,305" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 1748,294 L 1756,302 M 1757,303 L 1755,299 L 1753,301 L 1757,303 L 1755,299" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 1777,322 L 1775,326 L 1782,327 L 1778,321 L 1777,323" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1750" y1="290" x2="1780" y2="290" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 1772,290 M 1772,282 L 1772,298 M 1772,290 L 1757,298 L 1757,282 L 1772,290" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1750" y1="210" x2="1780" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 1772,210 M 1772,202 L 1772,218 M 1772,210 L 1757,218 L 1757,202 L 1772,210" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1740" y1="190" x2="1757" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1783" y1="190" x2="1790" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1762" y1="175.5" x2="1778" y2="175.5" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:3" />
+	<line x1="1757" y1="190" x2="1766" y2="175.5" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1774" y1="175.5" x2="1783" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<ellipse cx="1770" cy="180" rx="16" ry="16" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<path d="M 1742,160 L 1750,168 M 1751,169 L 1749,165 L 1747,167 L 1751,169 L 1749,165" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 1748,154 L 1756,162 M 1757,163 L 1755,159 L 1753,161 L 1757,163 L 1755,159" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 1777,182 L 1775,186 L 1782,187 L 1778,181 L 1777,183" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1720" y1="290" x2="1750" y2="290" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1720" y1="210" x2="1750" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1140" y1="490" x2="1140" y2="510" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1140" y1="510" x2="1140" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1480" y1="210" x2="1510" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 1502,210 M 1502,202 L 1502,218 M 1502,210 L 1487,218 L 1487,202 L 1502,210" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 1500,210 M 1498,199 L 1506,191 M 1507,190 L 1503,192 L 1505,194 L 1507,190 L 1503,192" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 1500,210 M 1504,206 L 1512,198 M 1513,197 L 1509,199 L 1511,201 L 1513,197 L 1509,199" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1430" y1="210" x2="1435" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1475" y1="210" x2="1480" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="1435" y="202" width="40" height="16" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="1455" y="196" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 1455, 196)">1 kΩ</text>
+	<line x1="980" y1="60" x2="980" y2="420" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="910" y1="130" x2="970" y2="130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="970" y1="130" x2="970" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1200" y1="100" x2="1260" y2="100" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1260" y1="100" x2="1260" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="830" y1="100" x2="1200" y2="100" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="830" y1="100" x2="830" y2="130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="860" y1="130" x2="865" y2="130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="905" y1="130" x2="910" y2="130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="865" y="122" width="40" height="16" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="885" y="116" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 885, 116)">1 kΩ</text>
+	<line x1="20" y1="60" x2="70" y2="60" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="20" y1="60" x2="20" y2="560" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="20" y1="560" x2="20" y2="1130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="20" y1="1130" x2="60" y2="1130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="370" y1="340" x2="370" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="500" y1="570" x2="640" y2="570" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="640" y1="370" x2="640" y2="570" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="500" y1="370" x2="640" y2="370" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="580" y1="130" x2="860" y2="130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="580" y1="60" x2="980" y2="60" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="370" y1="130" x2="370" y2="340" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="370" y1="130" x2="420" y2="130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="60" y1="60" x2="430" y2="60" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="500" y1="160" x2="500" y2="370" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="450" y="30" width="100" height="130" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<line x1="420" y1="60" x2="430" y2="60" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 430,60 A 5,5 0 1 0 440,60 A 5,5 0 1 0 430,60" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="440" y1="60" x2="470" y2="60" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="470" y1="60" x2="470" y2="87" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 470,103 M 462,103 L 478,103 M 470,103 L 478,88 L 462,88 L 470,103" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="470" y1="103" x2="470" y2="130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="470" y1="130" x2="440" y2="130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 430,130 A 5,5 0 1 0 440,130 A 5,5 0 1 0 430,130" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="420" y1="130" x2="430" y2="130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 480,80 M 480,80 L 495,85 L 485,90 L 500,95 L 502,89 L 508,98 L 498,103 L 500,96" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="570" y1="60" x2="580" y2="60" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 560,60 A 5,5 0 1 0 570,60 A 5,5 0 1 0 560,60" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="560" y1="60" x2="530" y2="60" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="130" x2="560" y2="130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 560,130 A 5,5 0 1 0 570,130 A 5,5 0 1 0 560,130" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="570" y1="130" x2="580" y2="130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="57" x2="530" y2="63" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="67" x2="530" y2="73" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="70" x2="540" y2="70" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="77" x2="530" y2="83" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="80" x2="540" y2="80" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 530,70 L 535,73 L 535,67 L 530,70" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="540" y1="70" x2="540" y2="120" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="107" x2="530" y2="113" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="110" x2="540" y2="110" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="117" x2="530" y2="123" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="120" x2="540" y2="120" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="127" x2="530" y2="133" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 530,120 L 535,123 L 535,117 L 530,120" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="525" y1="60" x2="525" y2="80" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="525" y1="110" x2="525" y2="130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="525" y1="70" x2="515" y2="70" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="525" y1="120" x2="515" y2="120" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="515" y1="120" x2="515" y2="70" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 460,45 A 5,5 0 1 0 470,45 A 5,5 0 1 0 460,45" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="340" y1="840" x2="340" y2="940" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="120" y1="730" x2="120" y2="950" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="120" y1="730" x2="170" y2="730" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="370" y1="1020" x2="370" y2="1180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="370" y1="1020" x2="370" y2="1030" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="310" y1="1020" x2="370" y2="1020" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="620" y1="1130" x2="640" y2="1130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="640" y1="1130" x2="640" y2="1180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="370" y1="1180" x2="640" y2="1180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="110" y1="950" x2="170" y2="950" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="60" y1="1130" x2="220" y2="1130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="220" y1="1060" x2="220" y2="1130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="270" y1="1060" x2="340" y2="1060" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="340" y1="920" x2="340" y2="1060" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="210" y1="1060" x2="220" y2="1060" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="170" y1="1060" x2="180" y2="1060" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="170" y1="1030" x2="170" y2="1060" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="170" y1="950" x2="170" y2="980" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="180" y1="1060" x2="210" y2="1060" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 202,1060 M 202,1052 L 202,1068 M 202,1060 L 187,1068 L 187,1052 L 202,1060" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 200,1060 M 198,1049 L 206,1041 M 207,1040 L 203,1042 L 205,1044 L 207,1040 L 203,1042" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 200,1060 M 204,1056 L 212,1048 M 213,1047 L 209,1049 L 211,1051 L 213,1047 L 209,1049" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="170" y1="980" x2="170" y2="985" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="170" y1="1025" x2="170" y2="1030" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="162" y="985" width="16" height="40" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="156" y="1005" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 156, 1005)">1 kΩ</text>
+	<line x1="250" y1="1020" x2="260" y2="1020" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="260" y1="1020" x2="265" y2="1020" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="305" y1="1020" x2="310" y2="1020" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="265" y="1012" width="40" height="16" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="285" y="1006" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 285, 1006)">1.2 kΩ</text>
+	<line x1="220" y1="1060" x2="237" y2="1060" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="263" y1="1060" x2="270" y2="1060" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="250" y1="1020" x2="250" y2="1046" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="242" y1="1045.5" x2="258" y2="1045.5" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:3" />
+	<line x1="237" y1="1060" x2="246" y2="1045.5" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="254" y1="1045.5" x2="263" y2="1060" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<ellipse cx="250" cy="1050" rx="16" ry="16" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<path d="M 257,1052 L 255,1056 L 262,1057 L 258,1051 L 257,1053" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1270" y1="450" x2="1270" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="830" y1="450" x2="1270" y2="450" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="830" y1="450" x2="830" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="910" y1="490" x2="970" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="580" y1="490" x2="860" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="860" y1="490" x2="865" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="905" y1="490" x2="910" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="865" y="482" width="40" height="16" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="885" y="476" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 885, 476)">1 kΩ</text>
+	<line x1="970" y1="490" x2="970" y2="500" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="970" y1="490" x2="970" y2="620" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="970" y1="620" x2="1000" y2="620" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="580" y1="420" x2="980" y2="420" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="980" y1="420" x2="980" y2="610" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="980" y1="610" x2="1000" y2="610" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="370" y1="490" x2="370" y2="700" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="370" y1="490" x2="420" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="60" y1="420" x2="430" y2="420" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="60" y1="420" x2="60" y2="910" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="60" y1="900" x2="60" y2="910" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="60" y1="910" x2="220" y2="910" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="220" y1="840" x2="220" y2="910" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="500" y1="520" x2="500" y2="730" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="450" y="390" width="100" height="130" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<line x1="420" y1="420" x2="430" y2="420" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 430,420 A 5,5 0 1 0 440,420 A 5,5 0 1 0 430,420" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="440" y1="420" x2="470" y2="420" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="470" y1="420" x2="470" y2="447" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 470,463 M 462,463 L 478,463 M 470,463 L 478,448 L 462,448 L 470,463" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="470" y1="463" x2="470" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="470" y1="490" x2="440" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 430,490 A 5,5 0 1 0 440,490 A 5,5 0 1 0 430,490" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="420" y1="490" x2="430" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 480,440 M 480,440 L 495,445 L 485,450 L 500,455 L 502,449 L 508,458 L 498,463 L 500,456" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="570" y1="420" x2="580" y2="420" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 560,420 A 5,5 0 1 0 570,420 A 5,5 0 1 0 560,420" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="560" y1="420" x2="530" y2="420" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="490" x2="560" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 560,490 A 5,5 0 1 0 570,490 A 5,5 0 1 0 560,490" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="570" y1="490" x2="580" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="417" x2="530" y2="423" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="427" x2="530" y2="433" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="430" x2="540" y2="430" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="437" x2="530" y2="443" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="440" x2="540" y2="440" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 530,430 L 535,433 L 535,427 L 530,430" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="540" y1="430" x2="540" y2="480" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="467" x2="530" y2="473" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="470" x2="540" y2="470" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="477" x2="530" y2="483" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="480" x2="540" y2="480" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="530" y1="487" x2="530" y2="493" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 530,480 L 535,483 L 535,477 L 530,480" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="525" y1="420" x2="525" y2="440" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="525" y1="470" x2="525" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="525" y1="430" x2="515" y2="430" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="525" y1="480" x2="515" y2="480" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="515" y1="480" x2="515" y2="430" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 460,405 A 5,5 0 1 0 470,405 A 5,5 0 1 0 460,405" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="270" y1="840" x2="340" y2="840" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="340" y1="700" x2="340" y2="840" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="340" y1="700" x2="700" y2="700" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="700" y1="700" x2="700" y2="810" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="620" y1="810" x2="700" y2="810" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="210" y1="840" x2="220" y2="840" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="170" y1="840" x2="180" y2="840" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="170" y1="810" x2="170" y2="840" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="170" y1="730" x2="170" y2="760" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="170" y1="730" x2="230" y2="730" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="180" y1="840" x2="210" y2="840" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 202,840 M 202,832 L 202,848 M 202,840 L 187,848 L 187,832 L 202,840" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 200,840 M 198,829 L 206,821 M 207,820 L 203,822 L 205,824 L 207,820 L 203,822" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 200,840 M 204,836 L 212,828 M 213,827 L 209,829 L 211,831 L 213,827 L 209,829" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="170" y1="760" x2="170" y2="765" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="170" y1="805" x2="170" y2="810" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="162" y="765" width="16" height="40" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="156" y="785" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 156, 785)">1 kΩ</text>
+	<line x1="220" y1="730" x2="660" y2="730" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="660" y1="730" x2="660" y2="770" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="620" y1="770" x2="660" y2="770" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="450" y1="800" x2="450" y2="1070" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="310" y1="800" x2="450" y2="800" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="250" y1="800" x2="260" y2="800" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="260" y1="800" x2="265" y2="800" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="305" y1="800" x2="310" y2="800" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="265" y="792" width="40" height="16" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="285" y="786" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 285, 786)">1.2 kΩ</text>
+	<line x1="450" y1="1070" x2="490" y2="1070" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="220" y1="840" x2="237" y2="840" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="263" y1="840" x2="270" y2="840" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="250" y1="800" x2="250" y2="826" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="242" y1="825.5" x2="258" y2="825.5" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:3" />
+	<line x1="237" y1="840" x2="246" y2="825.5" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="254" y1="825.5" x2="263" y2="840" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<ellipse cx="250" cy="830" rx="16" ry="16" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<path d="M 257,832 L 255,836 L 262,837 L 258,831 L 257,833" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1330" y1="1060" x2="1330" y2="1070" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="750" y1="1090" x2="750" y2="1110" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="750" y1="1090" x2="1020" y2="1090" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="620" y1="1110" x2="750" y2="1110" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="460" y1="1130" x2="460" y2="1250" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="460" y1="1250" x2="1040" y2="1250" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1040" y1="1240" x2="1040" y2="1250" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="460" y1="1130" x2="490" y2="1130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1040" y1="1160" x2="1040" y2="1190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1020" y1="1020" x2="1020" y2="1040" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1040" y1="1190" x2="1040" y2="1195" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1040" y1="1235" x2="1040" y2="1240" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="1032" y="1195" width="16" height="40" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="1026" y="1215" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1026, 1215)">1 kΩ</text>
+	<line x1="1020" y1="1040" x2="1020" y2="1045" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1020" y1="1085" x2="1020" y2="1090" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="1012" y="1045" width="16" height="40" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="1006" y="1065" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1006, 1065)">1 kΩ</text>
+	<line x1="1130" y1="1160" x2="1150" y2="1160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="970" y1="1160" x2="1080" y2="1160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1080" y1="1160" x2="1085" y2="1160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1125" y1="1160" x2="1130" y2="1160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="1085" y="1152" width="40" height="16" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="1105" y="1146" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 1105, 1146)">100 kΩ</text>
+	<line x1="1150" y1="1020" x2="1150" y2="1370" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="970" y1="1020" x2="1080" y2="1020" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1130" y1="1020" x2="1150" y2="1020" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1080" y1="1020" x2="1085" y2="1020" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1125" y1="1020" x2="1130" y2="1020" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="1085" y="1012" width="40" height="16" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="1105" y="1006" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 1105, 1006)">100 kΩ</text>
+	<line x1="720" y1="1370" x2="1150" y2="1370" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="720" y1="1360" x2="720" y2="1370" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="720" y1="1090" x2="720" y2="1370" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="620" y1="1090" x2="720" y2="1090" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="920" y1="1160" x2="920" y2="1280" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="890" y1="1020" x2="920" y2="1020" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="890" y1="960" x2="890" y2="1020" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="890" y1="960" x2="1060" y2="960" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1060" y1="960" x2="1060" y2="1280" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="410" y1="1280" x2="1060" y2="1280" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="990" y1="820" x2="990" y2="830" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="410" y1="1200" x2="410" y2="1280" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="410" y1="770" x2="410" y2="1200" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="410" y1="770" x2="490" y2="770" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1000" y1="1150" x2="1000" y2="1220" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="800" y1="1150" x2="800" y2="1220" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="990" y1="1120" x2="1000" y2="1120" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="990" y1="1040" x2="1000" y2="1040" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1000" y1="1040" x2="1000" y2="1150" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="800" y1="1220" x2="1000" y2="1220" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="800" y1="590" x2="800" y2="1150" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="800" y1="590" x2="950" y2="590" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="950" y1="590" x2="950" y2="630" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="920" y1="1160" x2="937" y2="1160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="963" y1="1160" x2="970" y2="1160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="942" y1="1145.5" x2="958" y2="1145.5" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:3" />
+	<line x1="937" y1="1160" x2="946" y2="1145.5" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="954" y1="1145.5" x2="963" y2="1160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<ellipse cx="950" cy="1150" rx="16" ry="16" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<path d="M 922,1130 L 930,1138 M 931,1139 L 929,1135 L 927,1137 L 931,1139 L 929,1135" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 928,1124 L 936,1132 M 937,1133 L 935,1129 L 933,1131 L 937,1133 L 935,1129" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 957,1152 L 955,1156 L 962,1157 L 958,1151 L 957,1153" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="930" y1="1120" x2="960" y2="1120" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 952,1120 M 952,1112 L 952,1128 M 952,1120 L 937,1128 L 937,1112 L 952,1120" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="930" y1="1040" x2="960" y2="1040" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 952,1040 M 952,1032 L 952,1048 M 952,1040 L 937,1048 L 937,1032 L 952,1040" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="920" y1="1020" x2="937" y2="1020" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="963" y1="1020" x2="970" y2="1020" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="942" y1="1005.5" x2="958" y2="1005.5" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:3" />
+	<line x1="937" y1="1020" x2="946" y2="1005.5" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="954" y1="1005.5" x2="963" y2="1020" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<ellipse cx="950" cy="1010" rx="16" ry="16" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<path d="M 922,990 L 930,998 M 931,999 L 929,995 L 927,997 L 931,999 L 929,995" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 928,984 L 936,992 M 937,993 L 935,989 L 933,991 L 937,993 L 935,989" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 957,1012 L 955,1016 L 962,1017 L 958,1011 L 957,1013" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="900" y1="1120" x2="930" y2="1120" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="900" y1="1040" x2="930" y2="1040" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="960" y1="1120" x2="961" y2="1120" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="989" y1="1120" x2="990" y2="1120" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<ellipse cx="964" cy="1120" rx="3" ry="3" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="986" cy="1120" rx="3" ry="3" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<line x1="963" y1="1112" x2="987" y2="1112" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="969" y1="1106" x2="981" y2="1106" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="975" y1="1106" x2="975" y2="1112" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="960" y1="1040" x2="961" y2="1040" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="989" y1="1040" x2="990" y2="1040" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<ellipse cx="964" cy="1040" rx="3" ry="3" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="986" cy="1040" rx="3" ry="3" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<line x1="963" y1="1032" x2="987" y2="1032" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="969" y1="1026" x2="981" y2="1026" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="975" y1="1026" x2="975" y2="1032" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="850" y1="850" x2="850" y2="1120" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="850" y1="850" x2="950" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="950" y1="640" x2="950" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="850" y1="1120" x2="855" y2="1120" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="895" y1="1120" x2="900" y2="1120" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="855" y="1112" width="40" height="16" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="875" y="1106" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 875, 1106)">2 kΩ</text>
+	<line x1="850" y1="1040" x2="855" y2="1040" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="895" y1="1040" x2="900" y2="1040" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="855" y="1032" width="40" height="16" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="875" y="1026" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 875, 1026)">1 kΩ</text>
+	<line x1="950" y1="630" x2="1000" y2="630" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="950" y1="640" x2="1010" y2="640" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="950" y1="640" x2="950" y2="644" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="940" y1="644" x2="960" y2="644" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="945" y1="638" x2="955" y2="638" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="940" y1="632" x2="960" y2="632" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="945" y1="626" x2="955" y2="626" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="950" y1="626" x2="950" y2="630" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="936" y="635" style="font-family:Arial;font-size:12px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 936, 635)">+12V</text>
+	<path d="M 1010,690 L 1010,850 L 1330,850 L 1330,530 L 1020,530 L 1010,540 L 1010,690" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1170" y="690" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="middle" transform="rotate(0, 1170, 690)">Arduino Mega 2560</text>
+	<line x1="1000" y1="580" x2="1010" y2="580" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="580" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 580)">IOREF</text>
+	<line x1="1000" y1="590" x2="1010" y2="590" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="590" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 590)">RST</text>
+	<line x1="1000" y1="600" x2="1010" y2="600" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="600" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 600)">3V3</text>
+	<line x1="1000" y1="610" x2="1010" y2="610" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="610" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 610)">5V</text>
+	<line x1="1000" y1="620" x2="1010" y2="620" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="620" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 620)">GND</text>
+	<line x1="1000" y1="630" x2="1010" y2="630" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="630" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 630)">GND</text>
+	<line x1="1000" y1="640" x2="1010" y2="640" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="640" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 640)">VIN</text>
+	<line x1="1000" y1="660" x2="1010" y2="660" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="660" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 660)">A0</text>
+	<line x1="1000" y1="670" x2="1010" y2="670" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="670" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 670)">A1</text>
+	<line x1="1000" y1="680" x2="1010" y2="680" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="680" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 680)">A2</text>
+	<line x1="1000" y1="690" x2="1010" y2="690" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="690" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 690)">A3</text>
+	<line x1="1000" y1="700" x2="1010" y2="700" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="700" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 700)">A4</text>
+	<line x1="1000" y1="710" x2="1010" y2="710" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="710" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 710)">A5</text>
+	<line x1="1000" y1="720" x2="1010" y2="720" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="720" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 720)">A6</text>
+	<line x1="1000" y1="730" x2="1010" y2="730" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="730" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 730)">A7</text>
+	<line x1="1000" y1="740" x2="1010" y2="740" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="740" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 740)">A8</text>
+	<line x1="1000" y1="750" x2="1010" y2="750" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="750" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 750)">A9</text>
+	<line x1="1000" y1="760" x2="1010" y2="760" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="760" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 760)">A10</text>
+	<line x1="1000" y1="770" x2="1010" y2="770" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="770" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 770)">A11</text>
+	<line x1="1000" y1="780" x2="1010" y2="780" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="780" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 780)">A12</text>
+	<line x1="1000" y1="790" x2="1010" y2="790" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="790" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 790)">A13</text>
+	<line x1="1000" y1="800" x2="1010" y2="800" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="800" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 800)">A14</text>
+	<line x1="1000" y1="810" x2="1010" y2="810" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1014" y="810" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 1014, 810)">A15</text>
+	<line x1="1050" y1="860" x2="1050" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1050" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1050, 846)">GND</text>
+	<line x1="1060" y1="860" x2="1060" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1060" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1060, 846)">GND</text>
+	<line x1="1080" y1="860" x2="1080" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1080" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1080, 846)">D53</text>
+	<line x1="1090" y1="860" x2="1090" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1090" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1090, 846)">D52</text>
+	<line x1="1100" y1="860" x2="1100" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1100" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1100, 846)">D51</text>
+	<line x1="1110" y1="860" x2="1110" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1110" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1110, 846)">D50</text>
+	<line x1="1120" y1="860" x2="1120" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1120" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1120, 846)">D49</text>
+	<line x1="1130" y1="860" x2="1130" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1130" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1130, 846)">D48</text>
+	<line x1="1140" y1="860" x2="1140" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1140" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1140, 846)">D47</text>
+	<line x1="1150" y1="860" x2="1150" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1150" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1150, 846)">D46</text>
+	<line x1="1160" y1="860" x2="1160" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1160" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1160, 846)">D45</text>
+	<line x1="1170" y1="860" x2="1170" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1170" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1170, 846)">D44</text>
+	<line x1="1180" y1="860" x2="1180" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1180" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1180, 846)">D43</text>
+	<line x1="1190" y1="860" x2="1190" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1190" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1190, 846)">D42</text>
+	<line x1="1200" y1="860" x2="1200" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1200" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1200, 846)">D41</text>
+	<line x1="1210" y1="860" x2="1210" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1210" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1210, 846)">D40</text>
+	<line x1="1220" y1="860" x2="1220" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1220" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1220, 846)">D39</text>
+	<line x1="1230" y1="860" x2="1230" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1230" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1230, 846)">D38</text>
+	<line x1="1240" y1="860" x2="1240" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1240" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1240, 846)">D37</text>
+	<line x1="1250" y1="860" x2="1250" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1250" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1250, 846)">D36</text>
+	<line x1="1260" y1="860" x2="1260" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1260" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1260, 846)">D35</text>
+	<line x1="1270" y1="860" x2="1270" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1270" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1270, 846)">D34</text>
+	<line x1="1280" y1="860" x2="1280" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1280" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1280, 846)">D33</text>
+	<line x1="1290" y1="860" x2="1290" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1290" y="846" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(270, 1290, 846)">D32</text>
+	<line x1="1330" y1="810" x2="1340" y2="810" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1326" y="810" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1326, 810)">D31</text>
+	<line x1="1330" y1="800" x2="1340" y2="800" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1326" y="800" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1326, 800)">D30</text>
+	<line x1="1330" y1="790" x2="1340" y2="790" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1326" y="790" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1326, 790)">D29</text>
+	<line x1="1330" y1="780" x2="1340" y2="780" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1326" y="780" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1326, 780)">D28</text>
+	<line x1="1330" y1="770" x2="1340" y2="770" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1326" y="770" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1326, 770)">D27</text>
+	<line x1="1330" y1="760" x2="1340" y2="760" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1326" y="760" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1326, 760)">D26</text>
+	<line x1="1330" y1="750" x2="1340" y2="750" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1326" y="750" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1326, 750)">D25</text>
+	<line x1="1330" y1="740" x2="1340" y2="740" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1326" y="740" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1326, 740)">D24</text>
+	<line x1="1330" y1="730" x2="1340" y2="730" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1326" y="730" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1326, 730)">D23</text>
+	<line x1="1330" y1="720" x2="1340" y2="720" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1326" y="720" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1326, 720)">D22</text>
+	<line x1="1330" y1="700" x2="1340" y2="700" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1326" y="700" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1326, 700)">5V</text>
+	<line x1="1330" y1="690" x2="1340" y2="690" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1326" y="690" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1326, 690)">5V</text>
+	<line x1="1330" y1="670" x2="1340" y2="670" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1326" y="670" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1326, 670)">SCL D21</text>
+	<line x1="1330" y1="660" x2="1340" y2="660" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1326" y="660" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1326, 660)">SDA D20</text>
+	<line x1="1330" y1="650" x2="1340" y2="650" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1326" y="650" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1326, 650)">RX1 D19</text>
+	<line x1="1330" y1="640" x2="1340" y2="640" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1326" y="640" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1326, 640)">TX1 D18</text>
+	<line x1="1330" y1="630" x2="1340" y2="630" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1326" y="630" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1326, 630)">RX2 D17</text>
+	<line x1="1330" y1="620" x2="1340" y2="620" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1326" y="620" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1326, 620)">TX2 D16</text>
+	<line x1="1330" y1="610" x2="1340" y2="610" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1326" y="610" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1326, 610)">RX3 D15</text>
+	<line x1="1330" y1="600" x2="1340" y2="600" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1326" y="600" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 1326, 600)">TX3 D14</text>
+	<line x1="1290" y1="530" x2="1290" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1290" y="534" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(270, 1290, 534)">RX0 D0</text>
+	<line x1="1280" y1="530" x2="1280" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1280" y="534" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(270, 1280, 534)">TX0 D1</text>
+	<line x1="1270" y1="530" x2="1270" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1270" y="534" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(270, 1270, 534)">D2</text>
+	<line x1="1260" y1="530" x2="1260" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1260" y="534" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(270, 1260, 534)">D3</text>
+	<line x1="1250" y1="530" x2="1250" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1250" y="534" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(270, 1250, 534)">D4</text>
+	<line x1="1240" y1="530" x2="1240" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1240" y="534" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(270, 1240, 534)">D5</text>
+	<line x1="1230" y1="530" x2="1230" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1230" y="534" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(270, 1230, 534)">D6</text>
+	<line x1="1220" y1="530" x2="1220" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1220" y="534" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(270, 1220, 534)">D7</text>
+	<line x1="1210" y1="530" x2="1210" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1210" y="534" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(270, 1210, 534)">D8</text>
+	<line x1="1200" y1="530" x2="1200" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1200" y="534" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(270, 1200, 534)">D9</text>
+	<line x1="1190" y1="530" x2="1190" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1190" y="534" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(270, 1190, 534)">D10</text>
+	<line x1="1180" y1="530" x2="1180" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1180" y="534" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(270, 1180, 534)">D11</text>
+	<line x1="1170" y1="530" x2="1170" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1170" y="534" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(270, 1170, 534)">D12</text>
+	<line x1="1160" y1="530" x2="1160" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1160" y="534" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(270, 1160, 534)">D13</text>
+	<line x1="1140" y1="530" x2="1140" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1140" y="534" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(270, 1140, 534)">GND</text>
+	<line x1="1130" y1="530" x2="1130" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1130" y="534" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(270, 1130, 534)">AREF</text>
+	<line x1="1120" y1="530" x2="1120" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1120" y="534" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(270, 1120, 534)">SCL</text>
+	<line x1="1110" y1="530" x2="1110" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="1110" y="534" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(270, 1110, 534)">SDA</text>
+	<path d="M 550,765 c -0.41874,0.0206 -0.96823,0.52856 -0.96823,0.52856 c 0,0 -0.6593299999999999,-0.37892 -1.01628,-0.36519 c -0.35695999999999994,0.01369999999999999 -0.9802499999999998,0.5694 -0.9802499999999998,0.5694 c 0,0 -0.31061000000000005,-0.19872999999999996 -0.8529,-0.13693999999999995 c -0.5422900000000004,0.061799999999999966 -0.6775200000000003,0.52135 -0.6775200000000003,0.52135 c 0,0 -1.2304500000000003,-0.1156600000000001 -1.52562,0.0697000000000001 c -0.2951800000000002,0.1853499999999999 -0.8168699999999998,0.73519 -0.8168699999999998,0.73519 c 0,0 -1.0224599999999997,-0.26771999999999996 -1.43433,0.19220000000000015 c -0.4118700000000004,0.4599199999999999 -0.09609999999999985,1.6457600000000001 -0.09609999999999985,1.6457600000000001 c 0,0 -0.4791299999999996,0.5717999999999996 -0.45167,0.9562100000000004 c 0.02740000000000009,0.3844099999999999 0.46610000000000085,1.0138699999999998 0.46610000000000085,1.0138699999999998 c 0,0 -0.3583300000000005,0.43967000000000045 -0.22104000000000035,0.82409 c 0.1372800000000005,0.3844099999999999 0.7688199999999998,1.0451100000000002 0.7688199999999998,1.0451100000000002 c 0,0 -0.16338000000000008,0.7410099999999993 0.02880000000000038,1.0979700000000001 c 0.19221000000000021,0.3569399999999998 0.7952500000000002,0.6318599999999996 0.7952500000000002,0.6318599999999996 c 0,0 -0.21828999999999965,0.4101499999999998 0.02880000000000038,0.8769299999999998 c 0.24711999999999978,0.4667899999999996 1.2901699999999998,1.1532300000000006 1.2901699999999998,1.1532300000000006 c 0,0 0.12973999999999997,0.5848499999999994 0.3699899999999996,0.8457000000000008 c 0.24026000000000014,0.2608499999999996 1.1604400000000004,0.45167999999999964 1.1604400000000004,0.45167999999999964 c 0,0 0.24128000000000016,0.7756799999999995 0.5021300000000002,0.9129699999999996 c 0.26085,0.13729000000000013 1.2205,0.4733099999999997 1.2205,0.4733099999999997 c 0,0 -2.4852699999999994,1.1889199999999995 -3.2266299999999997,2.6716300000000004 c -0.7413600000000002,1.48273 -1.2084799999999998,5.02375 -1.2084799999999998,5.02375 c 0,0 -3.5691699999999997,2.8003399999999985 -3.596630000000001,5.71087 c -0.02740000000000009,2.910519999999998 1.8667800000000003,5.905479999999997 1.8667800000000003,5.905479999999997 c 0,0 0.85222,4.775599999999997 1.89562,6.203389999999999 c 1.0433899999999996,1.427810000000001 3.76068,3.818010000000001 4.44713,3.8729300000000038 c 0.6864400000000002,0.0549000000000035 1.01593,0.9328700000000012 1.72983,1.2349099999999993 c 0.71391,0.3020399999999981 3.0224200000000003,1.3454300000000003 3.0224200000000003,1.3454300000000003 c 0,0 3.34298,2.571930000000002 5.943919999999999,2.688459999999999 L 558.46415,813.70181 c 0.009000000000000341,-0.00027999999999650527 0.017599999999999838,-0.0020000000000024443 0.026500000000000412,-0.0020000000000024443 c 0.009999999999999787,0.00034000000000133923 0.01929999999999943,0.0020000000000024443 0.02880000000000038,0.0020000000000024443 L 558.51945,813.69981 c 2.6008700000000005,-0.11686000000000263 5.94392,-2.688459999999999 5.94392,-2.688459999999999 c 0,0 2.3061100000000003,-1.0433900000000023 3.020009999999999,-1.3454300000000003 c 0.7139099999999985,-0.3020399999999981 1.0434000000000019,-1.1799999999999997 1.729849999999999,-1.2349099999999993 c 0.686440000000001,-0.0549000000000035 3.4037299999999995,-2.445120000000003 4.447120000000002,-3.8729299999999967 c 1.0433999999999983,-1.4277900000000017 1.895620000000001,-6.203389999999999 1.895620000000001,-6.203389999999999 c 0,0 1.89424,-2.994959999999999 1.8667900000000017,-5.905480000000001 c -0.027499999999999858,-2.9105300000000014 -3.596630000000001,-5.71087 -3.596630000000001,-5.71087 c 0,0 -0.4671200000000013,-3.5410199999999996 -1.2084900000000012,-5.02375 c -0.7413600000000002,-1.4827100000000009 -3.2266200000000005,-2.6716300000000004 -3.2266200000000005,-2.6716300000000004 c 0,0 0.9620399999999982,-0.33601999999999954 1.2228999999999992,-0.4733099999999997 c 0.26084000000000174,-0.13729000000000013 0.49972999999999956,-0.9129699999999996 0.49972999999999956,-0.9129699999999996 c 0,0 0.9201799999999984,-0.19083000000000006 1.1604300000000016,-0.45167999999999964 c 0.24025999999999925,-0.2608499999999996 0.37239999999999895,-0.8457000000000008 0.37239999999999895,-0.8457000000000008 c 0,0 1.043050000000001,-0.6864399999999993 1.2901600000000002,-1.1532300000000006 c 0.2471199999999989,-0.46678 0.026499999999998636,-0.8769299999999998 0.026499999999998636,-0.8769299999999998 c 0,0 0.6054500000000012,-0.27491999999999983 0.7976500000000009,-0.6318599999999996 c 0.19220999999999933,-0.35696000000000083 0.026499999999998636,-1.0979700000000001 0.026499999999998636,-1.0979700000000001 c 0,0 0.6315300000000015,-0.6607000000000003 0.7688300000000012,-1.0451100000000002 c 0.13729000000000013,-0.38441999999999954 -0.2186400000000006,-0.82409 -0.2186400000000006,-0.82409 c 0,0 0.4386399999999995,-0.6294599999999999 0.46610000000000085,-1.0138699999999998 c 0.02740000000000009,-0.3844099999999999 -0.45409000000000077,-0.95621 -0.45409000000000077,-0.95621 c 0,0 0.31577000000000055,-1.1858400000000002 -0.09609999999999985,-1.6457599999999997 c -0.4118600000000008,-0.4599199999999999 -1.4343199999999996,-0.19219999999999993 -1.4343199999999996,-0.19219999999999993 c 0,0 -0.5216999999999992,-0.5498399999999999 -0.8168700000000015,-0.73519 c -0.2951699999999988,-0.18533 -1.5232199999999985,-0.0697000000000001 -1.5232199999999985,-0.0697000000000001 c 0,0 -0.13763000000000147,-0.45957000000000003 -0.6799199999999992,-0.52135 c -0.5423000000000009,-0.061799999999999966 -0.8505099999999999,0.13694000000000006 -0.8505099999999999,0.13694000000000006 c 0,0 -0.6256899999999987,-0.55567 -0.98264,-0.5694 c -0.35696000000000083,-0.01369999999999999 -1.0162800000000018,0.36519 -1.0162800000000018,0.36519 c 0,0 -0.5495100000000015,-0.50797 -0.9682299999999984,-0.52856 c -0.41873000000000005,-0.0206 -1.0619300000000003,0.65108 -1.0619300000000003,0.65108 c 0,0 -0.23545000000000016,-0.28898 -0.7640200000000004,-0.25467 c -0.5285600000000006,0.034399999999999986 -1.0090699999999995,0.4949299999999999 -1.0090699999999995,0.4949299999999999 c 0,0 -0.5488099999999996,-0.12939 -1.1940600000000003,-0.07450000000000001 c -0.6452600000000004,0.05489999999999995 -1.0554199999999998,0.87694 -1.1652400000000007,0.87694 c -0.6589899999999993,-0.1098300000000001 -1.1532300000000006,0.53748 -1.8259500000000006,1.1003699999999998 c -0.5856200000000005,0.49000999999999983 -1.2938200000000002,2.3908300000000002 -1.4679599999999997,2.8758600000000003 c -0.1737800000000007,-0.48409000000000013 -0.8845000000000001,-2.38565 -1.47037,-2.87586 c -0.6727100000000004,-0.5628899999999999 -1.16695,-1.2102 -1.8259300000000005,-1.10037 c -0.10984000000000016,0 -0.5223899999999997,-0.82202 -1.16765,-0.87694 c -0.6452499999999999,-0.05489999999999995 -1.19406,0.07450000000000001 -1.19406,0.07450000000000001 c 0,0 -0.4805100000000002,-0.4606 -1.00908,-0.49493 c -0.5285600000000001,-0.0343 -0.7616100000000001,0.25467000000000006 -0.7616100000000001,0.25467000000000006 c 0,0 -0.6456,-0.67168 -1.06433,-0.65108 Z M 547.96037,766.36224 c 0.38830999999999993,-0.038899999999999935 2.17672,0.9321899999999999 2.17672,0.9321899999999999 c 0,0 -0.44721,-0.9516 -0.17539,-0.9321899999999999 c 0.27182,0.019400000000000084 1.72743,1.1844699999999997 1.72743,1.1844699999999997 c 0,0 -0.15429000000000004,-1.06792 0.1369499999999999,-0.9514200000000002 c 0.2912300000000001,0.11648999999999998 1.45595,1.37907 1.45595,1.37907 c 0,0 0.09710000000000019,-0.95181 0.23304999999999998,-0.9129700000000001 c 0.1358999999999999,0.03880000000000017 1.4559400000000005,1.65055 1.4559400000000005,1.65055 c 0,0 -0.2538999999999998,-1.0484300000000002 0.38680999999999965,-0.7183600000000001 c 0.64072,0.33006 1.92347,2.5625799999999996 2.02055,4.3294 c 0.09710000000000019,1.76682 -1.55445,2.4457999999999993 -1.55445,2.4457999999999993 c 0,0 -4.81498,-3.5604899999999997 -9.10568,-4.94926 c 2.35419,0.8562099999999999 8.13648,5.242169999999999 8.23355,5.979959999999999 c 0.09710000000000019,0.7377900000000004 -1.496,1.8639200000000002 -2.29203,2.38814 c -0.7960400000000001,0.5242199999999997 -3.92097,0.44688000000000017 -3.92097,0.44688000000000017 c 0,0 1.84466,-0.6418800000000005 0.69914,-0.6030499999999996 c -1.1455199999999999,0.038899999999999935 -2.4482,-0.5045400000000004 -2.4482,-0.5045400000000004 c 0,0 0.6610899999999997,-0.11636000000000024 0.6222599999999998,-0.2522599999999997 c -0.038899999999999935,-0.13591000000000086 -2.36892,-1.0883599999999998 -2.36892,-1.0883599999999998 c 0,0 1.0480999999999998,0.059200000000000585 0.9898500000000001,-0.09609999999999985 c -0.05830000000000002,-0.15531999999999968 -2.1743100000000006,-1.4751700000000003 -2.1743100000000006,-1.4751700000000003 c 0,0 0.9311600000000002,0.09549999999999947 0.7952399999999997,-0.07929999999999993 c -0.13590999999999998,-0.17473000000000027 -1.5520399999999999,-1.4151000000000007 -1.5520399999999999,-1.4151000000000007 c 0,0 0.7379699999999998,0.13429000000000002 0.6991399999999999,-0.07929999999999993 c -0.038899999999999935,-0.21356999999999982 -1.3213999999999997,-1.59049 -1.3213999999999997,-1.59049 c 0,0 1.0691300000000004,0.15493999999999986 1.0691300000000004,0.03849999999999998 c 0,-0.11648000000000014 -1.3213999999999997,-1.6697699999999998 -1.3213999999999997,-1.6697699999999998 c 0,0 0.8741300000000001,0.33026 0.9129699999999996,-0.019199999999999662 c 0.038899999999999935,-0.34947000000000017 -0.73759,-1.78749 -0.73759,-1.78749 L 544.71932,767.97437 c 0,0 -0.7565499999999998,-0.46694000000000013 -0.5429700000000004,-0.6222599999999998 c 0.21356999999999982,-0.1553300000000002 2.58034,0.19459999999999988 2.58034,0.19459999999999988 c 0,0 -0.6399900000000001,-0.7173799999999999 -0.3099400000000001,-0.81446 c 0.3300700000000001,-0.09709999999999996 2.02056,0.6006399999999998 2.02056,0.6006399999999998 c 0,0 -0.8952499999999999,-0.93181 -0.5069400000000002,-0.97064 Z M 566.9838,766.36225 c 0.27180999999999855,-0.019400000000000084 -0.17539000000000016,0.9321899999999999 -0.17539000000000016,0.9321899999999999 c 0,0 1.7860000000000014,-0.97102 2.174319999999998,-0.9321899999999999 c 0.3883100000000006,0.038899999999999935 -0.5045399999999987,0.9706299999999999 -0.5045399999999987,0.9706299999999999 c 0,0 1.6880699999999997,-0.69771 2.018139999999999,-0.6006399999999998 c 0.3300699999999992,0.09709999999999996 -0.30993000000000137,0.8144800000000001 -0.30993000000000137,0.8144800000000001 c 0,0 2.3691700000000004,-0.34994000000000014 2.582740000000001,-0.19462000000000002 c 0.21358000000000033,0.1553300000000002 -0.5453699999999984,0.6222699999999999 -0.5453699999999984,0.6222699999999999 L 574.34042,768.01287 c 0,0 -0.7764200000000017,1.4380100000000002 -0.7375800000000012,1.78749 c 0.03879999999999839,0.3494900000000003 0.9129700000000014,0.019199999999999662 0.9129700000000014,0.019199999999999662 c 0,0 -1.3190099999999987,1.55328 -1.3190099999999987,1.6697800000000003 c 0,0.11648999999999976 1.0667399999999994,-0.03849999999999998 1.0667399999999994,-0.03849999999999998 c 0,0 -1.2825799999999994,1.3769200000000001 -1.3214000000000006,1.590489999999999 c -0.03890000000000171,0.2135700000000007 0.6991399999999999,0.07929999999999993 0.6991399999999999,0.07929999999999993 c 0,0 -1.4161399999999986,1.240359999999999 -1.5520600000000009,1.4151100000000003 c -0.13589999999999947,0.1747399999999999 0.7952499999999993,0.07929999999999993 0.7952499999999993,0.07929999999999993 c 0,0 -2.116060000000001,1.3198399999999992 -2.174310000000002,1.4751700000000003 c -0.05829999999999913,0.15531999999999968 0.9898500000000006,0.09609999999999985 0.9898500000000006,0.09609999999999985 c 0,0 -2.330090000000002,0.9524500000000007 -2.3689199999999992,1.0883500000000002 c -0.03890000000000171,0.13592000000000048 0.6222600000000007,0.2522800000000007 0.6222600000000007,0.2522800000000007 c 0,0 -1.3002800000000008,0.5433599999999998 -2.445789999999999,0.5045300000000008 c -1.1455300000000008,-0.038899999999999935 0.6991399999999999,0.60304 0.6991399999999999,0.60304 c 0,0 -3.1273400000000002,0.07729999999999926 -3.9233700000000002,-0.44687000000000054 c -0.7960399999999996,-0.5242199999999997 -2.3867200000000004,-1.6503499999999995 -2.2896400000000003,-2.38814 c 0.0970999999999993,-0.7377900000000004 5.87697,-5.12375 8.23116,-5.97996 c -4.290700000000001,1.3887799999999997 -9.10569,4.94927 -9.10569,4.94927 c 0,0 -1.6515299999999993,-0.6789900000000006 -1.5544499999999992,-2.44581 c 0.0970999999999993,-1.7668099999999995 1.3798300000000001,-3.99934 2.02055,-4.3294 c 0.6407100000000003,-0.3300700000000001 0.3892100000000003,0.7183600000000001 0.3892100000000003,0.7183600000000001 c 0,0 1.3200400000000005,-1.61172 1.4559499999999996,-1.65056 c 0.13591000000000086,-0.03880000000000017 0.23305000000000042,0.9129800000000001 0.23305000000000042,0.9129800000000001 c 0,0 1.1647099999999995,-1.26257 1.45594,-1.37906 c 0.29124000000000017,-0.11650000000000005 0.13453999999999944,0.9514 0.13453999999999944,0.9514 c 0,0 1.458029999999999,-1.16504 1.7298500000000008,-1.18446 Z M 558.44992,778.5288 c 2.7599400000000003,0 4.99732,1.42671 4.99732,3.185790000000001 c 0,1.7590800000000009 -2.23738,3.185780000000001 -4.99732,3.185780000000001 c -2.7599400000000003,0 -4.99731,-1.4267000000000003 -4.99731,-3.185780000000001 c 0,-1.7590800000000009 2.2373699999999994,-3.185790000000001 4.99731,-3.185790000000001 Z M 551.15817,779.79735 c 0.5561,-0.0006799999999991257 0.97621,0.08089999999999975 1.1267899999999997,0.25467000000000084 c 0.5354299999999999,0.6178000000000008 -3.13052,3.5846099999999996 -3.13052,3.5846099999999996 c 0,0 -3.9539200000000005,3.1706900000000005 -4.5168,2.772549999999999 c -0.5628900000000003,-0.3981400000000015 0.5786600000000002,-3.6522299999999994 1.86918,-5.052569999999999 c 0.9275600000000002,-1.006499999999999 3.2302,-1.5574399999999997 4.65135,-1.55926 Z M 565.39811,779.79735 c 1.4211400000000012,0.002000000000000668 3.723790000000001,0.5527599999999993 4.651340000000001,1.55926 c 1.2905200000000008,1.40034 2.432079999999999,4.654429999999998 1.8691999999999993,5.052569999999999 c -0.5628899999999994,0.3981400000000015 -4.5168099999999995,-2.772549999999999 -4.5168099999999995,-2.772549999999999 c 0,0 -3.6659500000000005,-2.9668100000000006 -3.1305300000000003,-3.5846099999999996 c 0.15058999999999934,-0.1737599999999997 0.5707000000000004,-0.2553800000000006 1.1267999999999994,-0.25467000000000084 Z M 564.01423,784.62889 c 0.04039999999999999,9.999999999976694E-05 0.08200000000000074,0.0019999999999988916 0.12254000000000076,0.0019999999999988916 c 1.9460899999999999,0.04540000000000077 3.941090000000001,1.3824700000000014 4.9853000000000005,3.5557799999999986 c 1.3922799999999995,2.8977600000000017 0.5701299999999989,6.183949999999999 -1.8355500000000013,7.3398 c -2.4056800000000003,1.1558600000000006 -5.483830000000001,-0.2543900000000008 -6.876110000000001,-3.152149999999999 c -1.3922799999999995,-2.8977499999999985 -0.57254,-6.183949999999999 1.8331499999999998,-7.3398 c 0.5262399999999996,-0.2528499999999987 1.0846599999999995,-0.38496999999999915 1.650549999999999,-0.4036299999999997 c 0.04039999999999999,-0.0019999999999988916 0.07970000000000077,-0.0019999999999988916 0.12012,-0.0019999999999988916 Z M 552.76307,785.18147 c 0.6487099999999999,-0.015100000000000335 1.2918000000000003,0.11226999999999876 1.8932199999999995,0.4012299999999982 c 2.4056800000000003,1.155850000000001 3.2254299999999994,4.442050000000002 1.8331499999999998,7.33981 c -1.3922799999999995,2.8977499999999985 -4.47043,4.310400000000001 -6.87611,3.1545500000000004 c -2.40569,-1.155850000000001 -3.22784,-4.442050000000002 -1.83555,-7.33981 c 1.0442,-2.1733100000000007 3.03921,-3.51042 4.98529,-3.5557799999999986 Z M 544.02018,788.37446 c 1.2031200000000002,0.012899999999998357 1.04889,3.066700000000001 0.9201800000000002,4.817129999999999 c -0.13729000000000013,1.8671299999999995 -1.56372,4.2291799999999995 -2.2776200000000006,4.339019999999998 c -0.7139100000000003,0.10983000000000231 -1.6485000000000003,-2.2237399999999994 -1.7034099999999999,-4.942059999999998 c -0.05489999999999995,-2.718309999999999 2.8013700000000004,-4.175640000000001 2.8013700000000004,-4.175640000000001 c 0.09269999999999978,-0.02740000000000009 0.17926999999999982,-0.03930000000000078 0.25947999999999993,-0.03849999999999909 Z M 572.56493,788.37441 c 0.08020000000000138,-0.0008200000000009311 0.16681000000000168,0.010999999999999233 0.25947999999999993,0.03849999999999909 c 0,0 2.8562900000000013,1.457329999999999 2.8013699999999986,4.175650000000001 c -0.05489999999999995,2.7183199999999985 -0.9895099999999992,5.051880000000001 -1.7033999999999985,4.9420600000000015 c -0.7138999999999989,-0.10983999999999838 -2.14274,-2.471890000000002 -2.28003,-4.339019999999998 c -0.12871000000000166,-1.750440000000001 -0.28053999999999846,-4.80425 0.92258,-4.817129999999999 Z M 558.39466,795.11364 c 3.0329099999999993,0 5.49225,2.4593500000000006 5.49225,5.4922400000000025 c 0,3.032910000000001 -2.459340000000001,5.489849999999997 -5.49225,5.489849999999997 c -3.0328999999999997,0 -5.49224,-2.456940000000003 -5.49224,-5.489849999999997 c 0,-3.032890000000002 2.45934,-5.492239999999999 5.49224,-5.492239999999999 Z M 570.36659,797.88379 c 0.9988600000000005,-0.01839999999999975 1.67699,0.4757099999999994 1.67699,0.4757099999999994 c 0.9060999999999986,0.6864399999999975 0.5762600000000013,3.403039999999997 -0.05529999999999902,5.105420000000002 c -0.6315199999999983,1.7023900000000012 -2.3891600000000004,2.553919999999998 -2.938320000000001,3.1305400000000034 c -0.5491600000000005,0.5766100000000023 -3.5149399999999993,0.7152699999999967 -4.09155,0.028799999999996828 c -0.5766100000000005,-0.6864500000000007 -0.3006600000000006,-2.8840999999999966 0.02880000000000038,-3.8176599999999965 c 0.32948999999999984,-0.9335700000000031 0.8518799999999995,-1.8396699999999981 2.9935899999999993,-3.8440900000000013 c 0.8700699999999983,-0.8143000000000029 1.7023100000000007,-1.066119999999998 2.385729999999999,-1.0787499999999994 Z M 546.12236,797.96066 c 0.6834199999999999,0.012700000000002376 1.5180600000000002,0.2644499999999965 2.38813,1.0787400000000034 c 2.14171,2.004420000000003 2.66409,2.9105300000000014 2.99358,3.8440900000000013 c 0.3294999999999999,0.93356 0.6030500000000001,3.131219999999999 0.026499999999999968,3.8176600000000036 c -0.57662,0.6864399999999975 -3.54239,0.547780000000003 -4.09155,-0.028799999999996828 c -0.5491600000000001,-0.5766199999999984 -2.3068000000000004,-1.4257500000000007 -2.93833,-3.1281299999999987 c -0.6315299999999997,-1.7023900000000012 -0.96136,-4.421390000000002 -0.05520000000000014,-5.10783 c 0,0 0.6781300000000003,-0.4941600000000008 1.67698,-0.4757099999999994 Z M 558.28419,807.0567500000001 c 0,0 5.4109,0.2745699999999971 5.27361,1.729840000000003 c -0.13729000000000013,1.4552600000000027 -3.3769600000000004,3.379019999999997 -4.74985,3.3515700000000024 c -1.3728800000000003,-0.02740000000000009 -5.68445,-1.0986600000000024 -5.68445,-2.9383300000000006 c 0,-1.8396699999999981 5.160689999999999,-2.1430799999999977 5.160689999999999,-2.1430799999999977" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:1" />
+	<rect x="495" y="760" width="120" height="400" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<line x1="490" y1="770" x2="495" y2="770" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="790" x2="495" y2="790" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="810" x2="495" y2="810" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="830" x2="495" y2="830" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="850" x2="495" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="870" x2="495" y2="870" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="890" x2="495" y2="890" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="910" x2="495" y2="910" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="930" x2="495" y2="930" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="950" x2="495" y2="950" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="970" x2="495" y2="970" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="990" x2="495" y2="990" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="1010" x2="495" y2="1010" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="950" x2="495" y2="950" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="970" x2="495" y2="970" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="990" x2="495" y2="990" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="1010" x2="495" y2="1010" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="1030" x2="495" y2="1030" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="1050" x2="495" y2="1050" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="1070" x2="495" y2="1070" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="1090" x2="495" y2="1090" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="1110" x2="495" y2="1110" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="1130" x2="495" y2="1130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="1150" x2="495" y2="1150" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="615" y1="770" x2="620" y2="770" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="615" y1="790" x2="620" y2="790" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="615" y1="810" x2="620" y2="810" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="615" y1="830" x2="620" y2="830" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="615" y1="850" x2="620" y2="850" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="615" y1="870" x2="620" y2="870" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="615" y1="890" x2="620" y2="890" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="615" y1="910" x2="620" y2="910" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="615" y1="930" x2="620" y2="930" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="615" y1="950" x2="620" y2="950" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="615" y1="970" x2="620" y2="970" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="615" y1="990" x2="620" y2="990" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="615" y1="1010" x2="620" y2="1010" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="615" y1="1030" x2="620" y2="1030" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="615" y1="1050" x2="620" y2="1050" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="615" y1="1070" x2="620" y2="1070" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="615" y1="1090" x2="620" y2="1090" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="615" y1="1110" x2="620" y2="1110" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="615" y1="1130" x2="620" y2="1130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="615" y1="1150" x2="620" y2="1150" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="497" y="770" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 497, 770)">3V3</text>
+	<text x="497" y="790" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 497, 790)">GPIO2</text>
+	<text x="497" y="810" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 497, 810)">GPIO3</text>
+	<text x="497" y="830" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 497, 830)">GPIO4</text>
+	<text x="497" y="850" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 497, 850)">GND</text>
+	<text x="497" y="870" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 497, 870)">GPIO17</text>
+	<text x="497" y="890" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 497, 890)">GPIO27</text>
+	<text x="497" y="910" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 497, 910)">GPIO22</text>
+	<text x="497" y="930" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 497, 930)">3V3</text>
+	<text x="497" y="950" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 497, 950)">GPIO10</text>
+	<text x="497" y="970" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 497, 970)">GPIO9</text>
+	<text x="497" y="990" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 497, 990)">GPIO11</text>
+	<text x="497" y="1010" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 497, 1010)">GND</text>
+	<text x="497" y="1030" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 497, 1030)">ID_SD</text>
+	<text x="497" y="1050" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 497, 1050)">GPIO5</text>
+	<text x="497" y="1070" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 497, 1070)">GPIO6</text>
+	<text x="497" y="1090" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 497, 1090)">GPIO13</text>
+	<text x="497" y="1110" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 497, 1110)">GPIO19</text>
+	<text x="497" y="1130" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 497, 1130)">GPIO26</text>
+	<text x="497" y="1150" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 497, 1150)">GND</text>
+	<text x="613" y="770" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 613, 770)">5V0</text>
+	<text x="613" y="790" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 613, 790)">5V0</text>
+	<text x="613" y="810" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 613, 810)">GND</text>
+	<text x="613" y="830" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 613, 830)">GPIO14</text>
+	<text x="613" y="850" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 613, 850)">GPIO15</text>
+	<text x="613" y="870" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 613, 870)">GPIO18</text>
+	<text x="613" y="890" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 613, 890)">GND</text>
+	<text x="613" y="910" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 613, 910)">GPIO23</text>
+	<text x="613" y="930" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 613, 930)">GPIO24</text>
+	<text x="613" y="950" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 613, 950)">GND</text>
+	<text x="613" y="970" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 613, 970)">GPIO25</text>
+	<text x="613" y="990" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 613, 990)">GPIO8</text>
+	<text x="613" y="1010" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 613, 1010)">GPIO7</text>
+	<text x="613" y="1030" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 613, 1030)">ID_SC</text>
+	<text x="613" y="1050" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 613, 1050)">GND</text>
+	<text x="613" y="1070" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 613, 1070)">GPIO12</text>
+	<text x="613" y="1090" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 613, 1090)">GND</text>
+	<text x="613" y="1110" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 613, 1110)">GPIO16</text>
+	<text x="613" y="1130" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 613, 1130)">GPIO20</text>
+	<text x="613" y="1150" style="font-family:Arial;font-size:11px;text-anchor:end" dominant-baseline="middle" transform="rotate(0, 613, 1150)">GPIO21</text>
+	<ellipse cx="1970" cy="450" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="680" cy="700" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="1740" cy="330" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="1740" cy="340" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="480" cy="770" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="1820" cy="490" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="1820" cy="290" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="1820" cy="210" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="1860" cy="330" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="1840" cy="190" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="1970" cy="330" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="980" cy="420" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="970" cy="490" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="830" cy="130" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="370" cy="490" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="500" cy="570" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="340" cy="840" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="120" cy="950" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="170" cy="730" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="370" cy="1020" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="220" cy="1060" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="830" cy="490" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="370" cy="700" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="60" cy="910" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="220" cy="840" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="500" cy="730" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="1040" cy="1160" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="1020" cy="1020" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="1150" cy="1160" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="720" cy="1370" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="920" cy="1280" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="1000" cy="1120" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="1000" cy="1040" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="950" cy="630" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="850" cy="1040" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="950" cy="640" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+</svg>

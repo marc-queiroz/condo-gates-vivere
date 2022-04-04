@@ -1,0 +1,41 @@
+* Netlist created with www.circuit-diagram.org
+* Gate control
+D1 1 0
+R2 2 1 1000
+R3 4 3 1000
+R4 6 5 1000
+R5 4 7 100000
+R6 6 7 100000
+'phototransnpn2 col:8 emit:4 t=NPNPhototransistor2
+D7 0 9
+D8 10 9
+'phototransnpn2 col:8 emit:6 t=NPNPhototransistor2
+D9 11 10
+R10 12 11 1000
+R11 14 13 1000
+'Solid State Relay Load2:14 Load1:15 NegativeCtrl:7 PositiveCtrl:16
+D12 17 16
+R13 18 17 1000
+R14 20 19 1200
+'transnpn col:16 base:7 emit:20 t=NPN
+R15 21 13 1000
+'Solid State Relay Load2:21 Load1:15 NegativeCtrl:7 PositiveCtrl:22
+D16 23 22
+R17 18 23 1000
+R18 25 24 1200
+'transnpn col:22 base:7 emit:25 t=NPN
+R19 27 26 1000
+R20 29 28 1000
+R21 27 30 100000
+R22 29 30 100000
+'phototransnpn2 emit:27 col:8 t=NPNPhototransistor2
+D23 31 32
+D24 33 34
+'phototransnpn2 emit:29 col:8 t=NPNPhototransistor2
+'pushswitch b:35 a:32 t=Push closed=False
+'pushswitch b:35 a:34 t=Push closed=False
+R25 36 31 2000
+R26 36 33 1000
+V27 36 35 12
+'microcontroller #87:12 #88:2 #90:9 #78:14 #77:21 #5:13 #4:15 #6:35 #7:36 header=Arduino Mega 2560 p0= p1=IOREF p2=RST p3=3V3 p4=5V p5=GND p6=GND p7=VIN p8= p9=A0 p10=A1 p11=A2 p12=A3 p13=A4 p14=A5 p15=A6 p16=A7 p17=A8 p18=A9 p19=A10 p20=A11 p21=A12 p22=A13 p23=A14 p24=A15 p25=GND p26=GND p27= p28=D53 p29=D52 p30=D51 p31=D50 p32=D49 p33=D48 p34=D47 p35=D46 p36=D45 p37=D44 p38=D43 p39=D42 p40=D41 p41=D40 p42=D39 p43=D38 p44=D37 p45=D36 p46=D35 p47=D34 p48=D33 p49=D32 p50=D31 p51=D30 p52=D29 p53=D28 p54=D27 p55=D26 p56=D25 p57=D24 p58=D23 p59=D22 p60= p61=5V p62=5V p63= p64=SCL D21 p65=SDA D20 p66=RX1 D19 p67=TX1 D18 p68=RX2 D17 p69=TX2 D16 p70=RX3 D15 p71=TX3 D14 p72= p73= p74= p75=RX0 D0 p76=TX0 D1 p77=D2 p78=D3 p79=D4 p80=D5 p81=D6 p82=D7 p83=D8 p84=D9 p85=D10 p86=D11 p87=D12 p88=D13 p89= p90=GND p91=AREF p92=SCL p93=SDA p94= p95= p96= p97= p98= p99=
+'Raspberry Pi A+ / B+, 2 and Zero GPIO #14:3 #17:5 #38:19 #22:7 #20:18 #15:24 #37:28 #18:26 #36:30 #0:8
