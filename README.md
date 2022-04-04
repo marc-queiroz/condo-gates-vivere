@@ -21,3 +21,7 @@ Arduinos source code for gates simulator
 Schematics for connections between **Raspberry Pi** and **Arduino**.
 
 Observation: The Solid state relay should be replaced by a 5V relay with 3 pins VCC, GROUND and IN.
+
+# Project on circuit-diagram.org
+
+https://crcit.net/c/c7c45868cee941868d9534cdedbfd286
