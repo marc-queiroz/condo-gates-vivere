@@ -1,0 +1,13 @@
+# Installation directory /lib/systemd/system/pi-motion.service  
+                           
+[Unit]
+Description=Condo Gates Vivere Palhano systemd service.
+
+[Service]
+Type=simple
+User=root
+Group=root
+ExecStart=/bin/sh -c 'exec /home/marc/projetos/pessoais/condo_gates_vivere/systemd/systemd-script.sh'
+
+[Install]
+WantedBy=multi-user.target
