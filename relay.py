@@ -1,8 +1,8 @@
 import RPi.GPIO as GPIO
 import time
-from threading import Timer
+from threading import Timer, Lock
 
-gpio6 = 6 # relay gate0
+gpio12 = 12 # relay gate0
 gpio20 = 20 # relay gate1
 gpio26 = 26 # remote control gate0
 gpio16 = 16 # remote control gate1
@@ -16,8 +16,10 @@ GPIO.setup(gpio26, GPIO.IN)
 GPIO.setup(gpio16, GPIO.IN)
 GPIO.setup(gpio05, GPIO.IN)
 GPIO.setup(gpio19, GPIO.IN)
-GPIO.setup(gpio6, GPIO.OUT, initial=GPIO.LOW)
+GPIO.setup(gpio12, GPIO.OUT, initial=GPIO.LOW)
 GPIO.setup(gpio20, GPIO.OUT, initial=GPIO.LOW)
+
+lock = Lock()
 
 def motor_on(pin):
     print('motor_on', pin)
@@ -28,18 +30,24 @@ def motor_off(pin):
     GPIO.output(pin, GPIO.LOW) # Turn motor off
 
 def gate0(test):
+    lock.acquire()
     if GPIO.input(gpio05):
+        lock.release()
         return
-    motor_on(gpio6)
-    r = Timer(1.0, motor_off, (gpio6,)) 
+    motor_on(gpio12)
+    r = Timer(1.0, motor_off, (gpio12,))
     r.start()
+    lock.release()
 
 def gate1(test):
+    lock.acquire()
     if GPIO.input(gpio19):
+        lock.release()
         return
     motor_on(gpio20)
     r = Timer(1.0, motor_off, (gpio20,))
     r.start()
+    lock.release()
 
 GPIO.add_event_detect(gpio26, GPIO.RISING, callback=gate0, bouncetime=1300)
 GPIO.add_event_detect(gpio16, GPIO.RISING, callback=gate1, bouncetime=1300)
@@ -54,10 +62,10 @@ if __name__ == '__main__':
 
 # if __name__ == '__main__':
 #     try:
-#         # motor_on(gpio6)
+#         # motor_on(gpio12)
 #         # motor_on(gpio20)
 #         time.sleep(1)
-#         # motor_off(gpio6)
+#         # motor_off(gpio12)
 #         # motor_off(gpio20)
 #         time.sleep(1)
 #         GPIO.cleanup()
