@@ -1,6 +1,7 @@
 import RPi.GPIO as GPIO
 import time
 from threading import Timer, Lock
+from datetime import datetime
 
 gpio12 = 12 # relay gate0
 gpio20 = 20 # relay gate1
@@ -31,8 +32,11 @@ def motor_off(pin):
 
 def gate0(test):
     lock.acquire()
-    if GPIO.input(gpio05):
+    colision_gate1 = GPIO.input(gpio16)
+    if GPIO.input(gpio05) or colision_gate1:
         lock.release()
+        if colision_gate1:
+            print('Gate0 reports colision with gate1 ', datetime.now())
         return
     motor_on(gpio12)
     r = Timer(1.0, motor_off, (gpio12,))
@@ -41,8 +45,11 @@ def gate0(test):
 
 def gate1(test):
     lock.acquire()
-    if GPIO.input(gpio19):
+    colision_gate0 = GPIO.input(gpio26)
+    if GPIO.input(gpio19) or colision_gate0:
         lock.release()
+        if colision_gate0:
+            print('Gate1 reports colision with gate0 ', datetime.now())
         return
     motor_on(gpio20)
     r = Timer(1.0, motor_off, (gpio20,))
