@@ -33,7 +33,7 @@ def motor_off(pin):
 def gate0(test):
     lock.acquire()
     colision_gate1 = GPIO.input(gpio16)
-    if GPIO.input(gpio05) or colision_gate1:
+    if GPIO.input(gpio05) or colision_gate1 or GPIO.input(gpio20):
         lock.release()
         if colision_gate1:
             print('Gate0 reports colision with gate1 ', datetime.now())
@@ -46,7 +46,7 @@ def gate0(test):
 def gate1(test):
     lock.acquire()
     colision_gate0 = GPIO.input(gpio26)
-    if GPIO.input(gpio19) or colision_gate0:
+    if GPIO.input(gpio19) or colision_gate0 or GPIO.input(gpio12):
         lock.release()
         if colision_gate0:
             print('Gate1 reports colision with gate0 ', datetime.now())
