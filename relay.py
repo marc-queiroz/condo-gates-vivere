@@ -3,8 +3,8 @@ import time
 from threading import Timer, Lock
 from datetime import datetime
 
-gpio12 = 12 # relay gate0
-gpio20 = 20 # relay gate1
+gpio23 = 23 # relay gate0
+gpio17 = 17 # relay gate1
 gpio26 = 26 # remote control gate0
 gpio16 = 16 # remote control gate1
 gpio05 = 5 # sensor of gate0
@@ -17,8 +17,8 @@ GPIO.setup(gpio26, GPIO.IN)
 GPIO.setup(gpio16, GPIO.IN)
 GPIO.setup(gpio05, GPIO.IN)
 GPIO.setup(gpio19, GPIO.IN)
-GPIO.setup(gpio12, GPIO.OUT, initial=GPIO.LOW)
-GPIO.setup(gpio20, GPIO.OUT, initial=GPIO.LOW)
+GPIO.setup(gpio23, GPIO.OUT, initial=GPIO.LOW)
+GPIO.setup(gpio17, GPIO.OUT, initial=GPIO.LOW)
 
 lock = Lock()
 
@@ -33,26 +33,26 @@ def motor_off(pin):
 def gate0(test):
     lock.acquire()
     colision_gate1 = GPIO.input(gpio16)
-    if GPIO.input(gpio05) or colision_gate1 or GPIO.input(gpio20):
+    if GPIO.input(gpio05) or colision_gate1 or GPIO.input(gpio17):
         lock.release()
         if colision_gate1:
             print('Gate0 reports colision with gate1 ', datetime.now())
         return
-    motor_on(gpio12)
-    r = Timer(1.0, motor_off, (gpio12,))
+    motor_on(gpio23)
+    r = Timer(1.0, motor_off, (gpio23,))
     r.start()
     lock.release()
 
 def gate1(test):
     lock.acquire()
     colision_gate0 = GPIO.input(gpio26)
-    if GPIO.input(gpio19) or colision_gate0 or GPIO.input(gpio12):
+    if GPIO.input(gpio19) or colision_gate0 or GPIO.input(gpio23):
         lock.release()
         if colision_gate0:
             print('Gate1 reports colision with gate0 ', datetime.now())
         return
-    motor_on(gpio20)
-    r = Timer(1.0, motor_off, (gpio20,))
+    motor_on(gpio17)
+    r = Timer(1.0, motor_off, (gpio17,))
     r.start()
     lock.release()
 
@@ -69,11 +69,11 @@ if __name__ == '__main__':
 
 # if __name__ == '__main__':
 #     try:
-#         # motor_on(gpio12)
-#         # motor_on(gpio20)
+#         # motor_on(gpio23)
+#         # motor_on(gpio17)
 #         time.sleep(1)
-#         # motor_off(gpio12)
-#         # motor_off(gpio20)
+#         # motor_off(gpio23)
+#         # motor_off(gpio17)
 #         time.sleep(1)
 #         GPIO.cleanup()
 #     except KeyboardInterrupt:
